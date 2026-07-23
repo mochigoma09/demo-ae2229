@@ -1,2 +1,3 @@
 # demo-ae2229
-Auto generated demo site for nail salon HARE
+
+AIによって自動生成された nail salon HARE 様向けのデモサイトです。
